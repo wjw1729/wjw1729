@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+- I'm wjw.
+- Language: python,c++.
 
 <!--
 **wjw1729/wjw1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
