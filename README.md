@@ -1,5 +1,6 @@
 # Hi there 👋
 - I'm wjw.
+- I graduated from ZJU.
 - Language: python,c++.
 
 <!--
